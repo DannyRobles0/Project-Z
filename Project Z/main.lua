@@ -18,6 +18,7 @@ function load()
 end
 
 function love.load()
+  --Uncomment following line to run menu in fullscreen
   --love.window.setFullscreen(true, "desktop")
 
   Run("menu")
