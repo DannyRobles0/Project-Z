@@ -27,3 +27,7 @@ Contribute
  
 - Issue Tracker: github.com/DannyRobles0/Project-Z/issues
 - Source Code: github.com/DannyRobles0/Project-Z
+
+Credits
+=======
+Some assets used from OpenGameArt.org
