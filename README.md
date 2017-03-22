@@ -27,7 +27,3 @@ Contribute
  
 - Issue Tracker: github.com/DannyRobles0/Project-Z/issues
 - Source Code: github.com/DannyRobles0/Project-Z
- 
-Support
-======
-If you need support, please contact Danny at: Danny.ProjectZ@gmail.com
