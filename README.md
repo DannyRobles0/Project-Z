@@ -30,4 +30,4 @@ Contribute
 
 Credits
 =======
-Some assets used from OpenGameArt.org
+- Some assets used from OpenGameArt.org
